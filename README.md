@@ -1,2 +1,3 @@
 # alura-front-end
- Curso de Front-End da Alura
+ Adquirindo conhecimento sobre Front-End com os cursos da Alura.
+ 
